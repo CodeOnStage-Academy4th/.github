@@ -1,7 +1,7 @@
 ![다운로드](https://github.com/user-attachments/assets/80ccb178-d3b6-46f3-960f-0a9d28bd9d39)
-# Apple Developer Academy @ POSTECH
+# Code on Stage ; 4th Hackathon
 
-## 이번 여름, 러너들을 위한 스테이지가 열립니다!
+## 이번 여름, 러너들을 위한 스테이지가 열립니다! 🪩
 처음 만난 사람들과 팀을 이루고 서로의 색깔을 조율해 나가는, 모두가 주인공이 되는 **“Code on Stage”!**
 보컬, 기타리스트, 키보드, 드러머, 각자의 포지션에서 자유롭게 연주하듯 우리만의 창작물을 만들어 내봐요 🫟
 아이디어, 기획, 디자인, 개발이 밴드처럼 하나로 합쳐지는 단 하루의 스테이지
